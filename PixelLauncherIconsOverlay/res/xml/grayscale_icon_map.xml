@@ -3889,6 +3889,7 @@
     <icon drawable="@drawable/mobile_id" package="com.swisscom.mobileid"/>
     <icon drawable="@drawable/mobile_jkn" package="app.bpjs.mobile"/>
     <icon drawable="@drawable/mobile_legends_bang_bang" package="com.mobile.legends"/>
+    <icon drawable="@drawable/mobile_legends_bang_bang" package="com.mobiin.gp"/>
     <icon drawable="@drawable/mobilede" package="de.mobile.android.app"/>
     <icon drawable="@drawable/mobiles_bezahlen" package="com.s_payment.mobiles_bezahlen"/>
     <icon drawable="@drawable/mobiletrans" package="com.wondershare.mobiletrans"/>
