@@ -1128,6 +1128,7 @@
     <icon drawable="@drawable/camera" package="com.android.MGC_9_1_098"/>
     <icon drawable="@drawable/camera" package="app.grapheneos.camera"/>
     <icon drawable="@drawable/camera" package="com.agc.cam"/>
+    <icon drawable="@drawable/themed_icon_agc" package="com.agc.gcam84" />
     <icon drawable="@drawable/camera" package="com.android.arn"/>
     <icon drawable="@drawable/camera" package="com.android.camera2"/>
     <icon drawable="@drawable/camera" package="com.android.camera"/>
