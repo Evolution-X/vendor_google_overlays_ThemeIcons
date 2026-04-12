@@ -1517,7 +1517,6 @@
     <icon drawable="@drawable/camera" package="com.android.MGC_9_2_113" />
     <icon drawable="@drawable/camera" package="com.android.MGC_9_3_160" />
     <icon drawable="@drawable/camera" package="com.android.arn" />
-    <icon drawable="@drawable/camera" package="com.android.camera" />
     <icon drawable="@drawable/camera" package="com.android.camera2" />
     <icon drawable="@drawable/camera" package="com.android.hasli.Imc82" />
     <icon drawable="@drawable/camera" package="com.android.hasli.lmc82r7" />
